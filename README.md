@@ -1,13 +1,13 @@
 <h1> Bienvenido a mi perfil 👋</h1>
-<br>
+
 <h2>
   Mi nombre es Alejo Villores.<br>
 </h2>
 <h3>Mi objetivos son:</h3>
 <ul>
   <li>Aprender lo que mas pueda</li>
-  <li>Destacar profesionalmente</li>
-  <li>Desarrollar para ayudar a las personas</li>
+  <li>Destacarme profesionalmente</li>
+  <li>Desarrollar software para ayudar a las personas</li>
 </ul>
 
 <h4>Lenguajes</h4>
@@ -24,5 +24,5 @@
 
 <a href="https://github.com/alejovillores?tab=repositories">Mis proyectos</a><br>
 <br>
-<strong>Contacto</strong>: alejovillores@gmail.com
+<strong>Contacto: </strong>alejovillores@gmail.com
 
