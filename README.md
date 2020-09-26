@@ -24,5 +24,6 @@
 
 <a href="https://github.com/alejovillores?tab=repositories">Mis proyectos</a><br>
 <br>
-<strong>Contacto: </strong>alejovillores@gmail.com
-
+<strong>Contacto: </strong>alejovillores@gmail.com</strong>
+<br>
+<img  height="90" width="90" src="https://raw.githubusercontent.com/alejovillores/alejovillores/master/qr.png">
