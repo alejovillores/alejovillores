@@ -5,7 +5,7 @@
 </h2>
 <h3>Mi objetivos son:</h3>
 <ul>
-  <li>Aprender lo que mas pueda</li>
+  <li>Capacitarme lo mejor posible</li>
   <li>Destacarme profesionalmente</li>
   <li>Desarrollar software para ayudar a las personas</li>
 </ul>
