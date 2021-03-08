@@ -1,4 +1,4 @@
-<h1> Bienvenido a mi perfil 👋</h1>
+<h1> 👋</h1>
 
 <h2>
   Mi nombre es Alejo Villores.<br>
