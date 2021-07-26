@@ -1,24 +1,32 @@
-<h1> 🤙 </h1>
-
-<h2>
-  Mi nombre es Alejo Villores.<br>
-</h2>
-<h3>Mi objetivos son:</h3>
+<h1> 🤙 Buenas buenas  </h1>
+<img height="70" width="70" margin= "10px" src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/bongo-cat.gif" />
+<h3>🧑‍🎓 Pa que estudio y que quiero hacer?</h3>
 <ul>
   <li>Capacitarme lo mejor posible</li>
-  <li>Destacarme profesionalmente</li>
-  <li>Desarrollar software para ayudar a las personas</li>
+  <li>Destacarme profesionalmente</li>https://github.com/Denver-Devs/emojis/blob/master/the_goods/elon_musk.png
+  <li>Lograr objetivos</li>
+  <li>Desarrollar software para hacerle la vida a mi abuela</li>
+  <img height="60" width="60" src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/cool-doge.gif"/>
 </ul>
+<h4>👨‍💻 Lenguajes que más utilizo </h4>
 
-<h4>Lenguajes</h4>
-<div display = "inline">
-    <img height="40" width="40" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img height="40" width="40" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+<div display="inline">
+    <img height="60" width="60" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+</div>
+<h4>🧑‍💻 Tecnologías con la que trabajé/trabajo</h4>
+<div display="inline">
+    <img height="60" width="60" margin= "5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+    <img height="60" width="60" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+    <img height="60" width="60" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
+    <img height="60" width="60" margin= "10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+  
 </div>
 <a href="https://github.com/alejovillores?tab=repositories">Mis proyectos</a><br>
 <br>
-<strong>Contacto: </strong>alejovillores@gmail.com</strong>
+<div display="inline"> </div>
+<img height="70" width="70" margin= "10px" src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/pointbounce.gif" />
+
+<a href="mailto: alejovillores@gmail.com" >Contactame! 👌</a>
 <br>
 <img  height="90" width="90" src="https://raw.githubusercontent.com/alejovillores/alejovillores/master/qr.png">
