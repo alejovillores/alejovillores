@@ -3,7 +3,7 @@
 <h3>🧑‍🎓 Pa que estudio y que quiero hacer?</h3>
 <ul>
   <li>Capacitarme lo mejor posible</li>
-  <li>Destacarme profesionalmente</li>https://github.com/Denver-Devs/emojis/blob/master/the_goods/elon_musk.png
+  <li>Destacarme profesionalmente</li>
   <li>Lograr objetivos</li>
   <li>Desarrollar software para hacerle la vida a mi abuela</li>
   <img height="60" width="60" src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/cool-doge.gif"/>
