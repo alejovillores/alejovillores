@@ -19,6 +19,8 @@
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/>
   <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
+  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+  
 </div>
 <h4>🧑‍💻 Technologies i worked with/ working</h4>
 <div style="display:flex;">
@@ -29,8 +31,8 @@
   <img height="60" width="60" margin= "5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
   <img height="60" max-width="150" margin= "5px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"/>
 </div>
-<a href="https://drive.google.com/file/d/1DtYC827jeZ22atClNI3zJSauLWcRueXY/view" >📄 CV - Español</a><br>
-<a href="https://drive.google.com/file/d/13V6zyR4EVYfw1r65mrXIVhS5g_9LzaAa/view?usp=share_link" >📄 Resume - English</a>
+<h4>Contact me !</h4>
+<a href="https://drive.google.com/file/d/1q9ytCEvDU1a07zOCpLzoXCigK3ct617T/view?usp=drive_link" >📄 Resume - English</a>
 </br>
 <a href="mailto: alejovillores@gmail.com" >Contactame! 👌</a>
 <br>
