@@ -1,6 +1,6 @@
 <h1> 🤙 Hello there!  </h1>
 
-<p>My name is  Alejo Villores, Software Engineer Student at University of Buenos Aires.<br> I love programming and software development, good design and clean code lover <3. </p>
+<p>My name is  Alejo Villores, Software Engineer living in Buenos Aires.<br> I love programming and software development, good design and clean code lover <3. </p>
 
 <p> Looking for new challenges and learning constantly </p>
 
