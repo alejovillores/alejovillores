@@ -32,7 +32,6 @@
   <img height="60" max-width="150" margin= "5px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"/>
 </div>
 <h4>Contact me !</h4>
-<a href="https://drive.google.com/file/d/1q9ytCEvDU1a07zOCpLzoXCigK3ct617T/view?usp=drive_link" >📄 Resume - English</a>
 </br>
 <a href="mailto: alejovillores@gmail.com" >Contactame! 👌</a>
 <br>
